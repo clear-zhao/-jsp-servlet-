@@ -1,0 +1,112 @@
+.login img
+{
+    /*vertical-align:-2px;*/
+    /*margin-left: 30px;*/
+    height:30px;
+}
+.cart img
+{
+    /*vertical-align:-2px;*/
+    /*padding-left: 1550px;*/
+    height:30px;
+}
+.img
+{
+    height:50px
+}
+.tail
+{
+    margin-right: 50px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 400px;
+}
+.introduction
+{
+    height: 500px;
+    width: 100%;
+    background-color:#40E0D0;
+    position: relative;
+}
+.learn
+{
+    height: 500px;
+    width: 100%;
+    background-color:#F0E68C;
+    position: relative;
+}
+.what
+{
+    height: 500px;
+    width: 100%;
+    background-color:#FFC0CB;
+    position: relative;
+}
+.intr_mid
+{
+    position: absolute;
+    height:400px;
+    width:50%;
+    top:50px;
+    left:25%;
+}
+.intr_info
+{
+    height:400px;
+    width:50%;
+    float:left;
+}
+.intr_img
+{
+    height:400px;
+    width:50%;
+    float:left;
+}
+
+.what_mid
+{
+    position: absolute;
+    height:400px;
+    width:50%;
+    top:50px;
+    left:25%;
+}
+.what_info
+{
+    height:400px;
+    width:50%;
+    float:left;
+}
+.what_img
+{
+    height:400px;
+    width:50%;
+    float:left;
+}
+.img3 {
+    height: 400px;
+    margin-left: 30px;
+}
+
+.learn_mid
+{
+    position: absolute;
+    height:400px;
+    width:50%;
+    top:50px;
+    left:25%;
+}
+.learn_info
+{
+    height:400px;
+    width:50%;
+    float:left;
+}
+.learn_img
+{
+    height:400px;
+    width:50%;
+    float:left;
+}
+
